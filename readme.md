@@ -1,5 +1,7 @@
 Project: Pokemoni turniir
+
 Eesmärk: Duellide automaatne läbiviimine ja Pokemoni reitingu koostamine
+
 Funktsionaalsus:
 1. Andmete laadimine veebisaidilt https://pokeapi.co/api/v2/pokemon?offset=0&limit=1350 ja kirjutamine JSON faili edaspidiseks kasutamiseks
 2. Andmete teisendamine veebisaidilt Pokemoni klassi objektideks
