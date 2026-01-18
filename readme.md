@@ -11,4 +11,5 @@ Funktsionaalsus:
 6. Edetabeli salvestamine eraldi JSON-faili
 
 Looja:
-Vladislav Juurmann-andmete toomine, andmete salvestamine, lahingusüsteem, edetabelisüsteem
+
+Vladislav Juurmann - andmete toomine, andmete salvestamine, lahingusüsteem, edetabelisüsteem
